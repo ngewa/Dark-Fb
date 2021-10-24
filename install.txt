@@ -1,3 +1,4 @@
 requests
+mechanize
 bs4
 fake-useragent
